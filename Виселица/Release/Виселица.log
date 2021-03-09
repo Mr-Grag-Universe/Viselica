@@ -1,0 +1,21 @@
+﻿  chosing.cpp
+  drawing.cpp
+C:\Users\степан\Desktop\программирование\Виселица\drawing.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+  filtr.cpp
+  finish.cpp
+  game.cpp
+C:\Users\степан\Desktop\программирование\Виселица\game.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+  rules.cpp
+C:\Users\степан\Desktop\программирование\Виселица\rules.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\степан\Desktop\программирование\Виселица\rules.cpp(23,58): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\степан\Desktop\программирование\Виселица\rules.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\степан\Desktop\программирование\Виселица\rules.cpp(28,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\степан\Desktop\программирование\Виселица\rules.cpp(29,22): warning C4018: <: несоответствие типов со знаком и без знака
+  start.cpp
+C:\Users\степан\Desktop\программирование\Виселица\start.cpp(22,6): warning C4101: k: неиспользованная локальная переменная
+  Виселица.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 251 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Виселица.vcxproj -> C:\Users\степан\Desktop\программирование\Виселица\Release\Виселица.exe

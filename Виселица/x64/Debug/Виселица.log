@@ -1,0 +1,12 @@
+﻿  chosing.cpp
+  drawing.cpp
+  filtr.cpp
+  finish.cpp
+  game.cpp
+  rules.cpp
+C:\Users\степан\Desktop\программирование\Виселица\rules.cpp(23,87): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  start.cpp
+C:\Users\степан\Desktop\программирование\Виселица\start.cpp(22,6): warning C4101: k: неиспользованная локальная переменная
+  Виселица.cpp
+  Создание кода...
+  Виселица.vcxproj -> C:\Users\степан\Desktop\программирование\Виселица\x64\Debug\Виселица.exe
